@@ -1,0 +1,173 @@
+.logo{
+    font-size: 25px;
+    color: rgb(26, 165, 240);
+}
+.navbar-brand{
+    font-variant: small-caps;
+    font-size: large;
+}
+.navbar-nav{
+    margin-left: 70px;
+}
+.nav-item{
+    margin-left: 60px;
+}
+.better{
+    font-style:inherit;
+    font-size: small;
+}
+.bgimage{
+    background-image:url(../Assets/background1.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.heading1{
+    font-style:oblique;
+    font-weight:bolder;
+    padding-top: 200px;
+    padding-left: 100px;
+    font-size: 75px;
+}
+.heading6{
+    padding-left: 100px;
+    padding-top: 25px;
+    font-size:medium;
+}
+.button1{
+    margin-left: 100px;
+    margin-top: 20px;    
+}
+.login{
+    margin-top: 30px;
+    background-color: rgb(23, 23, 49);
+    padding-top: 80px;
+    padding-left: 100px;;
+    color: azure;   
+}
+.loginform{
+    margin-top:30px ;
+    display: flex;
+    padding-left: 100px;
+}
+.checkbox1-2{
+    margin-top:20px ;
+    display: flex;
+    padding-left: 100px;
+}
+.checkbox2{
+    margin-left: 20px;
+}
+.submit{
+    margin-left: 625px;
+    margin-bottom: 70px;
+    color: azure;
+    background-color: rgb(23, 23, 49);
+}
+.should{
+    background-color: rgb(185, 173, 173);
+    margin-top: 30px;
+    padding-left: 100px;
+    font-size: 50px;
+    display: flex;
+}
+.switch{
+    padding-top: 30px;
+}
+.whyshould{
+    margin-left: 100px;
+    width: 500px;
+    height: 175px;
+}
+
+.button2{
+    margin-left: 175px;
+    margin-top: 20px;   
+    margin-bottom: 30px; 
+}
+.energy{
+    margin-top: 30px;    
+    height: 350px;
+    text-align: center;
+}
+.col1{
+    background-color: skyblue;
+}
+.col2{
+    padding-top: 300px;
+    background-color: brown;
+    color: white;
+}
+.col3{
+    background-color: skyblue;
+}
+.works{
+    background-color: rgb(185, 173, 173);
+    margin-top: 30px;
+    padding-left: 200px;
+    padding-top: 50px;
+    font-size: 48px;
+    padding-bottom: 50px;
+}
+.work{
+    margin-top: 30px;    
+    height: 150px;
+    text-align:center;
+    margin-left: 100px;
+    border-style: groove;
+    border-radius: 5px;
+    width:220px ;
+    height:175px ;
+    padding-top: 30px;
+    background-color: rgb(240, 241, 241);
+}
+.bg2image{
+    margin-top: 30px;
+    padding-top: 30px;
+    padding-left: 20px;
+    background-image:url(../Assets/work.webp);
+    background-repeat: no-repeat;
+    height: 75vh;
+    width: 100%;
+    background-size: cover;
+}
+.connect{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-weight:400;
+    font-size: 75px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: rgb(185, 173, 173);
+}
+.footer{
+    padding-left: 30px;
+    padding-top: 30px;
+    margin-top: 30px;
+    color:rgb(185, 173, 173);
+}
+.product:hover{
+    color:white;
+}
+.ul{
+    list-style: none;
+}
+.contact{
+    margin-left: 30px;
+}
+.mobile{
+    padding-left: 50px;
+}
+.icon{
+    margin-left:30px;
+    font-size: 30px;
+    padding-top: 10px;
+}
+.iconf{
+    padding-top: 10px;
+    font-size: 30px;
+}
+.lastline{
+    margin-bottom: 10px;
+}
